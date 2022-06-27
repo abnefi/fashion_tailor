@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76c5c23a-4661-4d8f-b669-2dc6b0e4b4e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_logo_couture_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo_couture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_logo_couture.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_logo_couture_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_couture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_couture_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_couture_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_couture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_couture_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_couture_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_couture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_couture_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_couture_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_couture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_couture_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_couture_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_couture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_couture_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_couture_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/boubou-femme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image_tissu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image_tissu2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image_tissu3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image_tissu4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image_tissu5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image_tissu6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image_tissu7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/logo_couture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_couple_image9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_enfant_image9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_femme_image9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/modele_homme_image9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/tenue-jaune-femme.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/image5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/modele_femme_image5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/image6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/modele_femme_image6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/image7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/modele_femme_image7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/AccueilPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Catalogue.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ChoisirClient.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ConnexionPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ContenuAccueil.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/CreationClient.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/CreationClientValues.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/CreationCommande.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/DetailsCommandes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/DonneesClients.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/InscriptionPage_1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/InscriptionPage_2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/InscriptionVariables.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ListeClients.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ListeCommades.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ModelesHomme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ModifierClient.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Parametres.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ProfilePage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/SousCategorie_Homme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/detailsPhotos.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/otherFiles/Appbarfile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/otherFiles/Appbarfile2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/otherFiles/BottomNavigationBarFile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/otherFiles/table.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../web/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nTPJxXjZwynpGggykEXC9bp1zI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76c5c23a-4661-4d8f-b669-2dc6b0e4b4e3" name="Default Changelist" comment="" />
+      <created>1611411040537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611411040537</updated>
+    </task>
+    <servers />
+  </component>
+</project>

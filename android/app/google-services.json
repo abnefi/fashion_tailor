@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767314353648",
+    "project_id": "fashiontailor-17711",
+    "storage_bucket": "fashiontailor-17711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767314353648:android:722d93d9db6d78c6275135",
+        "android_client_info": {
+          "package_name": "com.example.fashiontailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767314353648-r6i0ml00ejn1h551jftq87khvgkk6vs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdjBi4CHE0N3iS81MWALbQ5Jros-7i4sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767314353648-r6i0ml00ejn1h551jftq87khvgkk6vs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

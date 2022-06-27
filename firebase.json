@@ -1,0 +1,15 @@
+{
+"hosting": {
+  "headers": [ {
+    "source": "https://firebasestorage.googleapis.com/v0/b/fashiontailor-17711",
+    "headers": [ {
+      "key": "Access-Control-Allow-Origin",
+      "value": "*"
+    } ]
+  } ]
+},
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

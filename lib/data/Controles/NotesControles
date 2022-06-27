@@ -1,0 +1,4 @@
+/****** HOUNSINOU HOUENOU Abed Nego Fifa **********/
+
+Cool pour gerer de façon isolé chaque modele
+  - A chaque model est associé un controlleurs pour gerer les fonctions de requete qui lui sont associées
